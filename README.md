@@ -1,1 +1,1 @@
-# iamge-gallery
+# image-gallery
